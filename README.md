@@ -12,27 +12,27 @@ I can speak **русский**, **english** and **h̷͈͠ē̷̡ḽ̴̾l̶̹͝o�
 
 ## 👨‍💻 My Stack
 
-### Databases
+### **Databases**
 
 [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/) and mostly all SQL databases.
 
-### TypeScript · middle+ · backend + frontend
+### **TypeScript** ![TypeScript](/assets/devicons/typescript-plain.svg) · middle+ · backend + frontend
 
 [React](https://reactjs.org/), [Remix](https://remix.run/), [Next.js](https://nextjs.org/), [koa](https://koajs.com/), [express](https://expressjs.com/), [puregram](https://github.com/nitreojs/puregram), [vk-io](https://github.com/negezor/vk-io), [discord.js](https://discord.js.org/), [undici](https://github.com/nodejs/undici) and many others.
 
-### C++ · middle
+### **C++** ![C++](/assets/devicons/cplusplus-plain.svg) · middle
 
 WinAPI, Windows kernel-mode API, [fmt](https://fmt.dev/) and many others.
 
-### Java · junior
+### **Java** ![Java](/assets/devicons/java-plain.svg) · junior
 
 Bukkit API
 
-### Python · junior · *currently learning*
+### **Python** ![Python](/assets/devicons/python-plain.svg) · junior · *currently learning*
 
 [aiohttp](https://docs.aiohttp.org/en/stable/), [aiogram](https://github.com/aiogram/aiogram)
 
-### Reverse Engineering & Pentesting
+### **Reverse Engineering & Pentesting**
 
 [IDA Pro](https://hex-rays.com/ida-pro/), [x64dbg](https://x64dbg.com/), [frida](https://frida.re/), [dnspy](https://github.com/dnSpy/dnSpy), [sqlmap](https://sqlmap.org/) and few others.
 
