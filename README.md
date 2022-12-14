@@ -12,13 +12,17 @@ I can speak **русский**, **english** and **h̷͈͠ē̷̡ḽ̴̾l̶̹͝o�
 
 ## 👨‍💻 My Stack
 
+### **Tools**
+
+[Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://code.visualstudio.com/), [GitKraken](https://www.gitkraken.com/), [DataGrip](https://www.jetbrains.com/datagrip/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [CLion](https://www.jetbrains.com/clion/) and many others.
+
 ### **Databases**
 
 [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/) and mostly all SQL databases.
 
 ### **TypeScript** ![TypeScript](/assets/devicons/typescript-plain.svg) · middle+ · backend + frontend
 
-[React](https://reactjs.org/), [Remix](https://remix.run/), [Next.js](https://nextjs.org/), [koa](https://koajs.com/), [express](https://expressjs.com/), [puregram](https://github.com/nitreojs/puregram), [vk-io](https://github.com/negezor/vk-io), [discord.js](https://discord.js.org/), [undici](https://github.com/nodejs/undici) and many others.
+[React](https://reactjs.org/), [Remix](https://remix.run/), [Next.js](https://nextjs.org/), [koa](https://koajs.com/), [express](https://expressjs.com/), [puregram](https://github.com/nitreojs/puregram), [vk-io](https://github.com/negezor/vk-io), [discord.js](https://discord.js.org/), [undici](https://github.com/nodejs/undici), [typeorm](https://typeorm.io/) and many others.
 
 ### **C++** ![C++](/assets/devicons/cplusplus-plain.svg) · middle
 
@@ -30,7 +34,7 @@ Bukkit API
 
 ### **Python** ![Python](/assets/devicons/python-plain.svg) · junior · *currently learning*
 
-[aiohttp](https://docs.aiohttp.org/en/stable/), [aiogram](https://github.com/aiogram/aiogram)
+[aiohttp](https://docs.aiohttp.org/en/stable/), [aiogram](https://github.com/aiogram/aiogram), [redis](https://pypi.org/project/redis/)
 
 ### **Reverse Engineering & Pentesting**
 
