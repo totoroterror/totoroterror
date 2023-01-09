@@ -26,7 +26,7 @@ I can speak **русский**, **english** and **h̷͈͠ē̷̡ḽ̴̾l̶̹͝o�
 
 ### **C++** ![C++](/assets/devicons/cplusplus-plain.svg) · middle
 
-WinAPI, Windows kernel-mode API, [fmt](https://fmt.dev/) and many others.
+WinAPI, Windows kernel-mode API, [fmt](https://fmt.dev/), [minhook](https://github.com/TsudaKageyu/minhook), [imgui](https://github.com/ocornut/imgui) and many others.
 
 ### **Java** ![Java](/assets/devicons/java-plain.svg) · junior
 
@@ -35,6 +35,10 @@ Bukkit API
 ### **Python** ![Python](/assets/devicons/python-plain.svg) · junior · *currently learning*
 
 [aiohttp](https://docs.aiohttp.org/en/stable/), [aiogram](https://github.com/aiogram/aiogram), [redis](https://pypi.org/project/redis/), [pydantic](https://docs.pydantic.dev/), [loguru](https://github.com/Delgan/loguru)
+
+### **Lua** ![Lua](/assets/devicons/lua-plain.svg) · junior
+
+Roblox API
 
 ### **Reverse Engineering & Pentesting**
 
