@@ -28,11 +28,15 @@ I can speak **русский**, **english** and **h̷͈͠ē̷̡ḽ̴̾l̶̹͝o�
 
 WinAPI, Windows kernel-mode API, [fmt](https://fmt.dev/), [minhook](https://github.com/TsudaKageyu/minhook), [imgui](https://github.com/ocornut/imgui) and many others.
 
+### **Kotlin** ![Kotlin](/assets/devicons/kotlin-plain.svg) · junior · *currently learning*
+
+[ktor](https://ktor.io/), [ktorm](https://www.ktorm.org/), [koin](https://insert-koin.io/), see Java for more.
+
 ### **Java** ![Java](/assets/devicons/java-plain.svg) · junior
 
-Bukkit API
+[Java Mail](https://javaee.github.io/javamail/), [HikariCP](https://github.com/brettwooldridge/HikariCP), [flyway](https://flywaydb.org/), Bukkit API
 
-### **Python** ![Python](/assets/devicons/python-plain.svg) · junior · *currently learning*
+### **Python** ![Python](/assets/devicons/python-plain.svg) · junior
 
 [aiohttp](https://docs.aiohttp.org/en/stable/), [aiogram](https://github.com/aiogram/aiogram), [redis](https://pypi.org/project/redis/), [pydantic](https://docs.pydantic.dev/), [loguru](https://github.com/Delgan/loguru)
 
