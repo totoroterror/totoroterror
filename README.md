@@ -8,6 +8,8 @@ I'm a Full-Stack TypeScript Developer from Russia, Moscow.
 
 I can speak **русский**, **english** and **h̷͈͠ē̷̡ḽ̴̾l̶̹͝ö̸̫́ ̸̢͆ẉ̵̂o̸͔͋r̵̳̈́l̷̟̃d̴̫͠**.
 
+![Moe Counter](https://count.akame.moe/@totoroterror?theme=asoul)
+
 ![My Stack](/assets/my-stack.png)
 
 ## 👨‍💻 My Stack
