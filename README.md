@@ -8,7 +8,7 @@ I'm a Full-Stack TypeScript Developer from Russia, Moscow.
 
 I can speak **русский**, **english** and **h̷͈͠ē̷̡ḽ̴̾l̶̹͝ö̸̫́ ̸̢͆ẉ̵̂o̸͔͋r̵̳̈́l̷̟̃d̴̫͠**.
 
-![Moe Counter](https://count.akame.moe/@totoroterror?theme=asoul)
+![Visitor Counter](https://count.akame.moe/@totoroterror?theme=asoul)
 
 ![My Stack](/assets/my-stack.png)
 
@@ -20,17 +20,17 @@ I can speak **русский**, **english** and **h̷͈͠ē̷̡ḽ̴̾l̶̹͝o�
 
 ### **Databases**
 
-[PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/) and mostly all SQL databases.
+[PostgreSQL](https://www.postgresql.org/), [Dragonfly](https://www.dragonflydb.io/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/) and mostly all SQL databases.
 
 ### **TypeScript** ![TypeScript](/assets/devicons/typescript-plain.svg) · middle+ · backend + frontend
 
-[React](https://reactjs.org/), [Remix](https://remix.run/), [Next.js](https://nextjs.org/), [koa](https://koajs.com/), [express](https://expressjs.com/), [puregram](https://github.com/nitreojs/puregram), [vk-io](https://github.com/negezor/vk-io), [discord.js](https://discord.js.org/), [undici](https://github.com/nodejs/undici), [typeorm](https://typeorm.io/) and many others.
+[React](https://reactjs.org/), [Remix](https://remix.run/), [Next.js](https://nextjs.org/), [fastify](https://fastify.dev/), [koa](https://koajs.com/), [express](https://expressjs.com/), [puregram](https://github.com/nitreojs/puregram), [vk-io](https://github.com/negezor/vk-io), [discord.js](https://discord.js.org/), [undici](https://github.com/nodejs/undici), [typeorm](https://typeorm.io/) and many others.
 
-### **C++** ![C++](/assets/devicons/cplusplus-plain.svg) · middle
+### **C++** ![C++](/assets/devicons/cplusplus-plain.svg) · middle · *currently learning*
 
 WinAPI, Windows kernel-mode API, [fmt](https://fmt.dev/), [minhook](https://github.com/TsudaKageyu/minhook), [imgui](https://github.com/ocornut/imgui) and many others.
 
-### **Kotlin** ![Kotlin](/assets/devicons/kotlin-plain.svg) · junior · *currently learning*
+### **Kotlin** ![Kotlin](/assets/devicons/kotlin-plain.svg) · junior
 
 [ktor](https://ktor.io/), [ktorm](https://www.ktorm.org/), [koin](https://insert-koin.io/), see Java for more.
 
@@ -54,7 +54,7 @@ Roblox API
 
 ## 📩 How to contact me?
 
-- **email:** totoro // airmail.cc
+- **email:** totoroterror // protonmail.com
 - **telegram:** [@totoroterror](https://t.me/totoroterror)
 
 ![Github Statistics](/assets/github-stats.png)
